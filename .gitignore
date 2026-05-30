@@ -1,0 +1,20 @@
+# Arquivos do Sistema Operacional
+swin/.DS_Store
+swin/Thumbs.db
+
+# Pastas de dependências (Exemplos comuns)
+swin/node_modules/
+swin/vendor/
+swin/env/
+swin/venv/
+swin/__pycache__/
+swin/checkpoints/
+# Arquivos de ambiente/configuração local
+.env
+.env.local
+
+# Arquivos de build/compilação
+dist/
+build/
+*.class
+*.log

@@ -1,0 +1,5 @@
+class,test,train,val,TOTAL
+Biliary_Leaks,17,110,24,151
+Lithiasis,123,505,98,726
+Normal,43,197,59,299
+Stricture,84,255,53,392

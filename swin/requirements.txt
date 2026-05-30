@@ -1,0 +1,11 @@
+torch>=2.1
+torchvision
+timm>=1.0.0
+albumentations>=1.4
+opencv-python
+scikit-learn
+pandas
+matplotlib
+grad-cam>=1.5.0
+numpy
+Pillow
